@@ -1,1 +1,1 @@
-An online magic site. A game to entertain and intrigue its users. Created entirely in HTML,CSS and JS. I'm just starting in the web development world, this will be my first project, I hope you like it. Author: Adalberto Baltazar.
+Um site de "mágica" online. Um jogo para entreter e intrigar seus usuários. Criado inteiramente em HTML, CSS e JS. Estou iniciando no mundo do desenvolvimento web, esse será meu primeiro projeto, espero que gostem. Autor: Adalberto Baltazar.
